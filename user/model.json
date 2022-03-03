@@ -1,0 +1,36 @@
+{
+    "data": {
+        "user": {
+            "id": "2",
+            "createdAt": "2022-03-01T05:06:37.000Z",
+            "updatedAt": "2022-03-02T06:17:51.000Z",
+            "publicAddress": "0x0bB31e84F420e7f33CEa3b4bA8e643163A3b4d18",
+            "firstName": "User",
+            "username": "user1xx",
+            "brief": "briefbriefbriefbrief brief",
+            "numberOfCollections": 0,
+            "numberOfFollower": 0,
+            "numberOfFollowing": 0,
+            "lastName": "1",
+            "email": "user1xx@gmail.com",
+            "role": 2,
+            "avatarUrl": "https://linework-dev.s3.eu-west-3.amazonaws.com/avatar_1646137755_opposite-adjective-big-small1308-2842_8d66433b-d665-4a79-80a5-1d12eb6d9dc1.jpeg",
+            "avatarThumbnailUrl": "https://linework-dev.s3.eu-west-3.amazonaws.com/avatar-thumbnail_1646137757_opposite-adjective-big-small1308-2842_990f145f-10c2-422b-be0d-8b6be80046b3.jpeg",
+            "photoCoverUrl": "https://linework-dev.s3.eu-west-3.amazonaws.com/cover-photo_1646226912_038b7f6d-06c4-401f-955d-9839a0749201_5ce53b7e-6454-4445-842f-9f51ef814f60.jpeg",
+            "socialNetworks": [
+                {
+                    "url": "https://www.24h.com.vn",
+                    "type": "facebook"
+                },
+                {
+                    "url": "https://www.24h.com.vn",
+                    "type": "twitter"
+                },
+                {
+                    "url": "https://www.24h.com.vn",
+                    "type": "linkedin"
+                }
+            ]
+        }
+    }
+}
